@@ -44,12 +44,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/radhakishan404/validate-form-in-expo-style.git"
+        "url": "git+https://github.com/radhakishan404/react-animation-loader"
     },
     "bugs": {
-        "url": "https://github.com/radhakishan404/validate-form-in-expo-style/issues"
+        "url": "https://github.com/radhakishan404/react-animation-loader/issues"
     },
-    "homepage": "https://github.com/radhakishan404/validate-form-in-expo-style#readme",
+    "homepage": "https://github.com/radhakishan404/react-animation-loader#readme",
     "author": "Radhakishan jangid <radhakishanjangid404@gmail.com> (https://radhakishan.vpran.in)",
     "license": "MIT"
 }
